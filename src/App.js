@@ -314,7 +314,7 @@ function DashboardContainer() {
         {/* <Route path="/Preocupaciones - Ven" element={<DashModelo />} /> */}
         <Route path="/Red motivacional del voto" element={<DashModelo />} />
         <Route path="/Sentimientos" element={<DashModelo />} />
-        <Route path="/lista" element={<DashboardLista />} />
+        {/* <Route path="/lista" element={<DashboardLista />} /> */}
         {/* <Route path="/Voto Emocional y Racional" element={<DashModelo />} /> */}
         
       </Routes>
