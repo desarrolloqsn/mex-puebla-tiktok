@@ -587,7 +587,7 @@ const disabledDate = current => {
 
   return (
     <div>
-    <div className='nombreDashboard'>Análisis - VEN TikTok {modeloSinEspacios ? `- ${modeloSinEspacios}` : null}</div>
+    <div className='nombreDashboard'>Análisis - Mexico Puebla - TikTok {modeloSinEspacios ? `- ${modeloSinEspacios}` : null}</div>
     <div className='contenedor-filtros'>
      <div className='boton-informe'>
      <Tooltip placement="top" title='Generar informe' >
