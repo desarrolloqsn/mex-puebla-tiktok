@@ -70,7 +70,6 @@ export default function NubePalabrasBigrama() {
     
     }
   };
-
   const handleFiltroFechaChange = (valor) => {
     setFiltroFecha(valor);
   };
@@ -78,7 +77,6 @@ export default function NubePalabrasBigrama() {
   const handleFiltroSerieChange = (valor) => {
     setFiltroSerie(valor);
   };
-
   return (
     <div>
       <div className='titulo-carta'>Bigramas</div>
